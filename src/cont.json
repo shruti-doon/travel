@@ -1,0 +1,40 @@
+
+[
+    
+        {
+            "name": "Asia",
+            "countries": "India, China, Japan",
+            "img": "../assets/asia.jpeg"
+          },
+          
+    {
+        "name":"Europe",
+        "countries":"UK, Switzerland, Greece",
+        "img": "C:/Users/Dell/Desktop/PROJECTS/website/src/assets/asia.jpeg"
+    },
+    {
+        "name":"North America",
+        "countries":"USA, Mexico, Canada",
+        "img": "../assets/north.jpeg"
+        
+    },
+    {
+        "name":"South America",
+        "countries":"Brazil, Venezuela, Peru",
+        "img": "../assets/south.jpeg"
+    },
+    {
+        "name":"Africa",
+        "countries":"South Africa, Uganda, Morocco",
+        "img": "../assets/africa.jpeg"
+    },
+    {
+        "name":"Australia",
+        "countries":"Australia, New Zealand, Nauru",
+        "img": "../assets/australia.jpeg"
+    },
+    {
+        "name":"and even ANTARCTICA",
+        "img": "../assets/antarctica.webp"
+    }
+]
